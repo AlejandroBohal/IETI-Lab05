@@ -3,6 +3,7 @@
 ## FIREBASE DEPLOYMENT
 
 
+### [Firebase Link](https://taskplanner-e0df3.web.app/)
 
 ## HEROKU DEPLOYMENT
 
